@@ -1,0 +1,14 @@
+# Ignore node_modules in frontend
+frontend/node_modules/
+frontend/.next/
+
+# Ignore virtual environments in backend/cart and backend/product
+backend/cart/.venv/
+backend/cart/.idea/
+backend/cart/.pytest_cache/
+backend/cart/.scannerwork/
+backend/product/.venv/
+backend/product/.idea/
+backend/product/.pytest_cache/
+backend/product/.scannerwork/
+
